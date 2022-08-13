@@ -1,0 +1,79 @@
+{
+  "comments": [
+    {
+      "comment": "hello World",
+      "id": 5
+    },
+    {
+      "comment": "JJJJJ",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "titel": "Engineer",
+      "description": "funny work",
+      "salary": "100",
+      "qualification": "not at all"
+    },
+    {
+      "titel": "Engineer",
+      "description": "funny work",
+      "salary": "100",
+      "qualification": "not at all"
+    }
+  ],
+  "applogo": [
+    "/jobeka.svg"
+  ],
+  "job-categories": [
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1",
+    "category1"
+  ],
+  "site-config": [
+    {
+      "site_name": "JobEka",
+      "site_logo": "logo",
+      "site_styles": {
+        "palette": {
+          "primary": {
+            "main": "#70c16f",
+            "light": "#c5f4c7"
+          },
+          "secondary": {
+            "main": "#1595b7",
+            "light": "#1595b7"
+          },
+          "error": {
+            "main": "#f44336",
+            "light": "#e57373"
+          },
+          "text": {
+            "primary": "#161616",
+            "secondary": "#101a0f"
+          }
+        }
+      }
+    }
+  ]
+}

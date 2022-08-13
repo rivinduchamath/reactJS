@@ -1,0 +1,39 @@
+{
+  "resume": [
+    {
+      "id": 1,
+      "name": "Thayakaran Selvanayagam",
+      "file_path": "/media/20220408044611757412/20220408044611757412.pdf",
+      "is_image_file": false,
+      "status":"cv upload"
+    },
+    {
+      "id": 2,
+      "name": "Chinthaka",
+      "file_path": "/media/20220420222852820300/20220420222852820300.pdf",
+      "is_image_file": false,
+      "status":"create blocks"
+    },
+    {
+      "id": 1,
+      "name": "Achintha",
+      "file_path": "/media/20220408044611757412/20220408044611757412.pdf",
+      "is_image_file": false,
+      "status":"entity extraction"
+    },
+    {
+      "id": 2,
+      "name": "Dinuka",
+      "file_path": "/media/20220420222852820300/20220420222852820300.pdf",
+      "is_image_file": false,
+      "status":"entity relation mapping"
+    },
+    {
+      "id": 2,
+      "name": "Kanchana",
+      "file_path": "/media/20220420222852820300/20220420222852820300.pdf",
+      "is_image_file": false,
+      "status":"completed"
+    }
+  ]
+}
