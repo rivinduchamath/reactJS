@@ -73,6 +73,7 @@ export default function User() {
               <th style={{ padding: 34 }}>ID</th>
               <th style={{ padding: 34 }}>Name</th>
               <th style={{ padding: 34 }}>Address</th>
+              <th style={{ padding: 34 }}>Settings</th>
             </tr>
           </thead>
           <tbody>
