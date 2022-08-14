@@ -7,12 +7,12 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import DashboardApp from './pages/DashboardApp';
 import Products from './pages/Products';
-import CvList from './pages/CvList';
 import CvUpload from './pages/CvUpload';
 import NotFound from './pages/Page404';
 import EntityViewer from './pages/EntityViewer';
 import Settings from './pages/settings';
 import UserManage from './pages/UserManage';
+import User from './pages/User';
 
 // ----------------------------------------------------------------------
 
@@ -23,12 +23,12 @@ export default function Router() {
       element: <DashboardLayout />,
       children: [
         { path: 'app', element: <DashboardApp /> },
-        { path: 'cv-list', element: <CvList /> },
         { path: 'cv-upload', element: <CvUpload /> },
         { path: 'entity-viewer', element: <EntityViewer /> },
         { path: 'settings', element: <Settings /> },
-        { path: 'user/manage', element: <UserManage /> },
-        { path: 'products', element: <Products /> }
+        { path: 'user', element: <User /> },
+        { path: 'products', element: <Products /> },
+        { path: 'user-manage', element: <UserManage /> }
       ]
     },
     {

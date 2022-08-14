@@ -12,20 +12,15 @@ const sidebarConfig = [
     icon: getIcon('eva:pie-chart-2-fill')
   },
   {
-    title: 'CV List',
-    path: '/dashboard/cv-list',
-    icon: getIcon('bi:stack')
+    title: 'User Management',
+    path: '/dashboard/user-manage',
+    icon: getIcon('eva:shopping-bag-fill')
   },
   {
     title: 'Settings',
     path: '/dashboard/settings',
     icon: getIcon('raphael:settingsalt')
   },
-  {
-    title: 'User Management',
-    path: '/dashboard/user/manage',
-    icon: getIcon('eva:shopping-bag-fill')
-  }
   // {
   //   title: 'product',
   //   path: '/dashboard/products',
@@ -37,15 +32,15 @@ const sidebarConfig = [
   //   icon: getIcon('eva:file-text-fill')
   // },
   // {
-  //   title: 'login',
-  //   path: '/login',
+  //   title: 'user',
+  //   path: '/dashboard/user',
   //   icon: getIcon('eva:lock-fill')
-  // }
-  // {
-  //   title: 'register',
-  //   path: '/register',
-  //   icon: getIcon('eva:person-add-fill')
   // },
+  {
+    title: 'register',
+    path: '/register',
+    icon: getIcon('eva:person-add-fill')
+  }
   // {
   //   title: 'Not found',
   //   path: '/404',
